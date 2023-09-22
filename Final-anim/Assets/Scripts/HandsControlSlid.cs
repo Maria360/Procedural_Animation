@@ -15,7 +15,7 @@ public class HandsControlSlid : MonoBehaviour
     }
     void Update()
     {
-        rig.weight = Mathf.Lerp(rig.weight, targetWeight, Time.deltaTime * 10f);
+        //rig.weight = Mathf.Lerp(rig.weight, targetWeight, Time.deltaTime * 10f);
         rig.weight = slider.value;
 
     }

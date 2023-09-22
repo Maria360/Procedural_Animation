@@ -431,7 +431,7 @@ MonoBehaviour:
   m_Direction: 0
   m_MinValue: 0
   m_MaxValue: 1
-  m_WholeNumbers: 1
+  m_WholeNumbers: 0
   m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -975,10 +975,6 @@ MonoBehaviour:
     m_Active: 1
   - m_Rig: {fileID: 13195875}
     m_Active: 1
-  - m_Rig: {fileID: 0}
-    m_Active: 0
-  - m_Rig: {fileID: 0}
-    m_Active: 0
   m_Effectors:
   - m_Transform: {fileID: 1828359096}
     m_Style:
